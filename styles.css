@@ -338,26 +338,11 @@ a:link {
 }
 
 .footer {
-    height: 280px;
+    font-style:
     background-color:rgba(0, 20, 20, 0.8);
     width:100%;
-    box-sizing: border-box;
-}
-
-#footer-text {
-    color:white;
     text-align: center;
+    color:white;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
-
-.footer-right {
-    float:right;
-    cursor: pointer;
-    width:150px;
-}
-
-.footer-left {
-    float:left;
-    width: calc(100%-150px);
-    
-}
-
